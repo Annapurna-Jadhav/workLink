@@ -1,8 +1,27 @@
-# React + Vite
+# WorkLink – Decentralized Job Marketplace (MERN + Solidity)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+WorkLink is a next-generation decentralized job marketplace built using the **MERN stack (MongoDB, Express.js, React, Node.js)** and **Solidity smart contracts**. It enables employers to post jobs, hire workers, and ensures secure payments via blockchain-based escrow systems. The platform leverages **Web3 technology** for transparent payments and reputation tracking.
+
+##  Key Features
+
+- **🔒 Secure Blockchain Payments**  
+  Funds are held in a smart contract-based escrow system and released upon job completion.
+  
+- **📊 Decentralized Reputation System**  
+  Workers' ratings and job history are stored on-chain, preventing manipulation.
+
+- **🔍 Job Posting & Search**  
+  Employers can list jobs, and workers can search using filters like skills, budget, and location.
+
+- **💬 Real-time Chat & Notifications**  
+  Built-in messaging for smooth employer-worker communication.
+
+- **⚙️ Admin Panel for Platform Management**  
+  Manage users, disputes, and oversee platform analytics.
+
+- **⛓️ Blockchain Integration**  
+  Uses **Ethereum / Polygon** for decentralized transactions.
+
+
